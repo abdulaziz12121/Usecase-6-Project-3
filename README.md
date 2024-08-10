@@ -84,6 +84,12 @@ Data types changed to a more logical approach:
 | available_for_rent  | boolean |
 | Living_rooms  | int |
 
+## Insights: 
+<img src='assets/distribution of region.png' alt='distribution of region' width='380'>
+
+1- The pie chart shows that the North region leads in real estate offers with 53%, followed by the East at 32.8%. The West and South have much smaller shares at 7.8% and 3.7%, respectively, while the Center region has the least activity with only 2.7%. This suggests that the North and East are the most active areas for property listings.
+
+
 
 ## Team Members
 
