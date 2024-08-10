@@ -83,7 +83,7 @@ Data types changed to a more logical approach:
 | Living_rooms  | int |
 
 
-### - Team Members
+## Team Members
 
 - Abdulaziz Al Kathiri
 - Raghad Al Malki
