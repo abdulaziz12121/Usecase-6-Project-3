@@ -2,6 +2,8 @@
 
 This project is about Data Storytelling, an interactive streamlit story about an apartments dataset from the website https://sa.aqar.fm/
 
+## Data Cleaning steps:
+
 ### 1.  Reliability
 
 -   The dataset was scrapped from a website called Aqar in 2022.
