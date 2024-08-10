@@ -1,5 +1,7 @@
 # Usecase-6-Project-3
 
+This project is about Data Storytelling, an interactive streamlit story about an apartments dataset from the website https://sa.aqar.fm/
+
 ### 1.  Reliability
 
 -   The dataset was scrapped from a website called Aqar in 2022.
@@ -79,16 +81,10 @@ Data types changed to a more logical approach:
 | Living_rooms  | int |
 
 
-team members
+### - Team Members
 
-Abdulaziz
-Raghad
-Alaa
-Wadia
-Salman
-
-# Due Date: Sun, 11 Aug, 09:00 AM.
-## Final Deliverables:
-- Notebook file(.ipynb).
-- Streamlit file (.py)
-- README.md file (.md).
+- Abdulaziz Al Kathiri
+- Raghad Al Malki
+- Alaa Al Ahmadi
+- Wadia 
+- Salman Gassem
