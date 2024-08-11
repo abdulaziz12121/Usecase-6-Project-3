@@ -85,50 +85,50 @@ Data types changed to a more logical approach:
 | Living_rooms  | int |
 
 ## Insights: 
-<img src='assets/distribution of region.png' alt='distribution of region' width='380'>
+<img src='assets/distribution of region.png' alt='distribution of region' width='400'>
 
 1. The pie chart shows that the North region leads in real estate offers with 53%, followed by the East at 32.8%. The West and South have much smaller shares at 7.8% and 3.7%, respectively, while the Center region has the least activity with only 2.7%. This suggests that the North and East are the most active areas for property listings.
 
-<img src='assets/Price per region.png' alt='Price per region' width='380'>
+<img src='assets/Price per region.png' alt='Price per region' width='400'>
 
 2. The bar chart shows the average property prices across different regions. The North region stands out with the highest average price, significantly above the others. The Center, East, and West regions show moderate average prices, while the South region has the lowest average price. This suggests that properties in the North are generally more expensive compared to other regions.
 
-<img src='assets/Top neighborhood.png' alt='top 10 neighborhoods' width='380'>
+<img src='assets/Top neighborhood.png' alt='top 10 neighborhoods' width='400'>
 
 3. The bar chart displays the average property prices for the top 10 neighborhoods. It shows that the neighborhood on the far left has the highest average price, followed  by the second neighborhood. The remaining neighborhoods have slightly lower but relatively similar average prices. 
 
 
 4. prices across neighborhoods:
 
-<img src='assets/Center.png' alt='Center region' width='380'>
+<img src='assets/Center.png' alt='Center region' width='400'>
    
 - center:The bar chart shows wide variation in average property prices across neighborhoods in the Center region, with some areas significantly more expensive than others. A few neighborhoods exceed 80,000, highlighting a diverse range of property values in this region.
 
-<img src='assets/North.png' alt='North region' width='380'>
+<img src='assets/North.png' alt='North region' width='400'>
 
 - North: The bar chart shows the average property prices across neighborhoods in the North region, with noticeable variations. Some neighborhoods reach average prices over 100,000, while others are significantly lower. This indicates a wide range of property values within the North region.
 
-<img src='assets/West.png' alt='West region' width='380'>
+<img src='assets/West.png' alt='West region' width='400'>
 
 - West: The bar chart highlights the average property prices across neighborhoods in the West region. There's a noticeable spike in one neighborhood, which significantly surpasses the others in price. Most other neighborhoods have moderate average prices, indicating a mix of property values.
 
-<img src='assets/East.png' alt='East region' width='380'>
+<img src='assets/East.png' alt='East region' width='400'>
 
 - East: The bar chart displays the average property prices across neighborhoods in the East region. There is considerable variation in prices, with some neighborhoods reaching high averages while others remain much lower. This indicates a diverse property market in the East, with certain areas commanding higher prices, likely due to factors such as location or amenities.
 
-<img src='assets/South.png' alt='South region' width='380'>
+<img src='assets/South.png' alt='South region' width='400'>
 
 - South: The bar chart illustrates the average property prices across neighborhoods in the South region. The data shows significant variability, with some neighborhoods reaching higher averages while others remain much lower. This suggests that the South region has a mix of more and less expensive neighborhoods, contributing to a diverse property market.
 
-<img src='assets/size_price_region.png' alt='Relation between Size and Price Ascross different regions' width='380'>
+<img src='assets/size_price_region.png' alt='Relation between Size and Price Ascross different regions' width='400'>
 
 5. The scatter plot shows that larger properties generally have higher prices, especially in the 100-200 square meter range, with significant price variation across regions. Beyond 200 square meters, properties are fewer but tend to be more expensive.
 
-<img src='assets/size per region.png' alt='Distribution of Property Sizes by Region' width='380'>
+<img src='assets/size per region.png' alt='Distribution of Property Sizes by Region' width='400'>
 
 6. The boxplot shows that the West region has the most diverse property sizes, with some much larger than in other regions. The East and Center regions have smaller, more consistent property sizes, while the North and South are in between.
 
-<img src='assets/Amenities.png' alt='Effect of Amenities on Price' width='380'>
+<img src='assets/Amenities.png' alt='Effect of Amenities on Price' width='400'>
 
 7. The boxplot shows that air conditioning increases property prices for both furnished and unfurnished properties, with the highest prices seen in furnished properties with air conditioning. Unfurnished properties, even with air conditioning, generally have lower prices than their furnished counterparts
 
