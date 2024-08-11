@@ -120,17 +120,17 @@ Data types changed to a more logical approach:
 
 - South: The bar chart illustrates the average property prices across neighborhoods in the South region. The data shows significant variability, with some neighborhoods reaching higher averages while others remain much lower. This suggests that the South region has a mix of more and less expensive neighborhoods, contributing to a diverse property market.
 
-<img src='assets/South.png' alt='South region' width='380'>
+<img src='assets/size_price_region.png' alt='Relation between Size and Price Ascross different regions' width='380'>
 
 5. The scatter plot shows that larger properties generally have higher prices, especially in the 100-200 square meter range, with significant price variation across regions. Beyond 200 square meters, properties are fewer but tend to be more expensive.
 
+<img src='assets/size per region.png' alt='Distribution of Property Sizes by Region' width='380'>
 
+6. The boxplot shows that the West region has the most diverse property sizes, with some much larger than in other regions. The East and Center regions have smaller, more consistent property sizes, while the North and South are in between.
 
+<img src='assets/Amenities.png' alt='Effect of Amenities on Price' width='380'>
 
-
-
-
-
+7. The boxplot shows that air conditioning increases property prices for both furnished and unfurnished properties, with the highest prices seen in furnished properties with air conditioning. Unfurnished properties, even with air conditioning, generally have lower prices than their furnished counterparts
 
 
 ## Team Members
